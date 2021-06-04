@@ -1,0 +1,16 @@
+C:\Users\juanp\source\repos\SuperEjemploArchivos\SuperEjemploArchivos\bin\Debug\net5.0\SuperEjemploArchivos.exe
+C:\Users\juanp\source\repos\SuperEjemploArchivos\SuperEjemploArchivos\bin\Debug\net5.0\SuperEjemploArchivos.deps.json
+C:\Users\juanp\source\repos\SuperEjemploArchivos\SuperEjemploArchivos\bin\Debug\net5.0\SuperEjemploArchivos.runtimeconfig.json
+C:\Users\juanp\source\repos\SuperEjemploArchivos\SuperEjemploArchivos\bin\Debug\net5.0\SuperEjemploArchivos.runtimeconfig.dev.json
+C:\Users\juanp\source\repos\SuperEjemploArchivos\SuperEjemploArchivos\bin\Debug\net5.0\SuperEjemploArchivos.dll
+C:\Users\juanp\source\repos\SuperEjemploArchivos\SuperEjemploArchivos\bin\Debug\net5.0\ref\SuperEjemploArchivos.dll
+C:\Users\juanp\source\repos\SuperEjemploArchivos\SuperEjemploArchivos\bin\Debug\net5.0\SuperEjemploArchivos.pdb
+C:\Users\juanp\source\repos\SuperEjemploArchivos\SuperEjemploArchivos\obj\Debug\net5.0\SuperEjemploArchivos.csprojAssemblyReference.cache
+C:\Users\juanp\source\repos\SuperEjemploArchivos\SuperEjemploArchivos\obj\Debug\net5.0\SuperEjemploArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\source\repos\SuperEjemploArchivos\SuperEjemploArchivos\obj\Debug\net5.0\SuperEjemploArchivos.AssemblyInfoInputs.cache
+C:\Users\juanp\source\repos\SuperEjemploArchivos\SuperEjemploArchivos\obj\Debug\net5.0\SuperEjemploArchivos.AssemblyInfo.cs
+C:\Users\juanp\source\repos\SuperEjemploArchivos\SuperEjemploArchivos\obj\Debug\net5.0\SuperEjemploArchivos.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\SuperEjemploArchivos\SuperEjemploArchivos\obj\Debug\net5.0\SuperEjemploArchivos.dll
+C:\Users\juanp\source\repos\SuperEjemploArchivos\SuperEjemploArchivos\obj\Debug\net5.0\ref\SuperEjemploArchivos.dll
+C:\Users\juanp\source\repos\SuperEjemploArchivos\SuperEjemploArchivos\obj\Debug\net5.0\SuperEjemploArchivos.pdb
+C:\Users\juanp\source\repos\SuperEjemploArchivos\SuperEjemploArchivos\obj\Debug\net5.0\SuperEjemploArchivos.genruntimeconfig.cache
